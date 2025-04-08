@@ -3,13 +3,13 @@
     {
       "username": "dev1",
       "key": "dev2",
-      "expiry": "2024-12-31T23:59:59Z",
+      "expiry": "2026-12-31T23:59:59Z",
       "activationsLeft": 3
     },
     {
       "username": "freekey",
       "key": "freekey2",
-      "expiry": "2024-07-15T12:00:00Z",
+      "expiry": "2026-07-15T12:00:00Z",
       "activationsLeft": 1
     }
   ]
